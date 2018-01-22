@@ -1,0 +1,6 @@
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\bin\Debug\AssigmentPrimeNumber.exe.config
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\bin\Debug\AssigmentPrimeNumber.exe
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\bin\Debug\AssigmentPrimeNumber.pdb
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\obj\Debug\AssigmentPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\obj\Debug\AssigmentPrimeNumber.exe
+C:\Users\victo\Desktop\AssigmentPrimeNumber\AssigmentPrimeNumber\AssigmentPrimeNumber\obj\Debug\AssigmentPrimeNumber.pdb
